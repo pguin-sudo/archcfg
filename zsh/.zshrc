@@ -32,3 +32,6 @@ export FZF_DEFAULT_COMMAND='fd --type f --hidden --follow --exclude .git'
 
 # Path
 export PATH="$HOME/.local/bin:$PATH"
+
+# TikTok Alias
+alias tiktok='/home/pguin/Desktop/tiktok/tiktok.sh'
