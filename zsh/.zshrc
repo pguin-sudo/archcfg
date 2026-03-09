@@ -1,6 +1,6 @@
 # Zsh configuration
 export EDITOR=nvim
-export VISUAL=nvim
+export VISUAL=zeditor
 
 # History
 HISTSIZE=10000
@@ -20,6 +20,7 @@ alias ll='ls -la'
 alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
+alias notepad='$VISUAL ~/Nextcloud/notepad/'
 
 # Tools
 eval "$(starship init zsh)"
