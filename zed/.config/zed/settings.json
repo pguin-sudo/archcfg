@@ -8,7 +8,7 @@
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
   "session": {
-    "trust_all_worktrees": true
+    "trust_all_worktrees": true,
   },
   "vim_mode": true,
   "icon_theme": "Zed (Default)",
@@ -18,5 +18,21 @@
     "mode": "dark",
     "light": "One Light",
     "dark": "Catppuccin Mocha",
+  },
+  "lsp": {
+    "rust-analyzer": {
+      "initialization_options": {
+        "inlayHints": {
+          "maxLength": null,
+          "lifetimeElisionHints": {
+            "enable": "skip_trivial",
+            "useParameterNames": true,
+          },
+          "closureReturnTypeHints": {
+            "enable": "always",
+          },
+        },
+      },
+    },
   },
 }
