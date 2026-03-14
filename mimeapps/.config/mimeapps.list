@@ -1,0 +1,12 @@
+[Added Associations]
+application/pdf=firefox.desktop;
+application/zip=dolphin-3.desktop;dolphin-2.desktop;dolphin.desktop;
+text/markdown=dev.zed.Zed.desktop;
+text/x-python=code.desktop;
+
+[Default Applications]
+application/pdf=firefox.desktop;
+application/zip=dolphin-3.desktop;
+text/markdown=dev.zed.Zed.desktop;
+text/plain=org.kde.kate.desktop
+text/x-python=code.desktop;
