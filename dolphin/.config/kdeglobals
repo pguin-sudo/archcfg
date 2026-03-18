@@ -1,0 +1,14 @@
+[Colors:View]
+BackgroundNormal=#00000000
+
+[General]
+TerminalApplication=kitty
+
+[UiSettings]
+ColorScheme=DankMatugen
+
+[Wallet]
+Enabled=false
+
+[KDE]
+widgetStyle=qt6ct-style

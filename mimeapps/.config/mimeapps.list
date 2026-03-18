@@ -1,4 +1,5 @@
 [Added Associations]
+application/json=nvim.desktop;
 application/pdf=firefox.desktop;
 application/zip=dolphin-3.desktop;dolphin-2.desktop;dolphin.desktop;
 image/jpeg=org.gnome.Loupe.desktop;
@@ -6,6 +7,7 @@ text/markdown=dev.zed.Zed.desktop;
 text/x-python=code.desktop;
 
 [Default Applications]
+application/json=nvim.desktop;
 application/pdf=firefox.desktop;
 application/zip=dolphin-3.desktop;
 image/jpeg=org.gnome.Loupe.desktop;
