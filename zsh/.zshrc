@@ -1,6 +1,6 @@
 # Zsh configuration
 export EDITOR=nvim
-export VISUAL=zeditor
+export VISUAL=zed
 
 # History
 HISTSIZE=10000
@@ -36,3 +36,13 @@ export PATH="$HOME/.local/bin:$PATH"
 
 # TikTok Alias
 alias tiktok='/home/pguin/Desktop/tiktok/tiktok.sh'
+
+
+function y() {
+  local tmp="$(mktemp -t "yazi-cwd-XXXXXX")" cwd
+  yazi "$@" --cwd-file="$tmp"
+  if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "cwd" != "$PWD" ]; then 
+    cd -- "$cwd"
+  fi 
+  rm -f -- "$tmp"
+}
