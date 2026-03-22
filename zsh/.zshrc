@@ -21,6 +21,7 @@ alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias notepad='$VISUAL ~/Nextcloud/notepad/'
+alias ssh='kitten ssh'
 
 # Tools
 eval "$(starship init zsh)"
