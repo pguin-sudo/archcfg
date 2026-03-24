@@ -20,7 +20,7 @@ alias ll='ls -la'
 alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
-alias notepad='$VISUAL ~/Nextcloud/notepad/'
+alias notepad='$EDITOR ~/Nextcloud/notepad/'
 alias ssh='kitten ssh'
 
 # Tools

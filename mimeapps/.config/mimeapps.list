@@ -3,6 +3,7 @@ application/json=nvim.desktop;
 application/pdf=firefox.desktop;
 application/zip=dolphin-3.desktop;dolphin-2.desktop;dolphin.desktop;
 image/jpeg=org.gnome.Loupe.desktop;
+image/png=org.gnome.Loupe.desktop;
 text/markdown=dev.zed.Zed.desktop;
 text/x-python=code.desktop;
 
@@ -11,6 +12,7 @@ application/json=nvim.desktop;
 application/pdf=firefox.desktop;
 application/zip=dolphin-3.desktop;
 image/jpeg=org.gnome.Loupe.desktop;
+image/png=org.gnome.Loupe.desktop;
 text/markdown=dev.zed.Zed.desktop;
 text/plain=org.kde.kate.desktop
 text/x-python=code.desktop;
