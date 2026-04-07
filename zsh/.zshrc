@@ -33,7 +33,7 @@ export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 export FZF_DEFAULT_COMMAND='fd --type f --hidden --follow --exclude .git'
 
 # Path
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:/opt/zapret2/nfq2:$PATH"
 
 # TikTok Alias
 alias tiktok='/home/pguin/Desktop/tiktok/tiktok.sh'
