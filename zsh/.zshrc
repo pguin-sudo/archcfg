@@ -1,6 +1,6 @@
 # Zsh configuration
 export EDITOR=nvim
-export VISUAL=zed
+export VISUAL=nvim
 
 # History
 HISTSIZE=10000
