@@ -7,3 +7,5 @@
 [user]
 	name = PGuin
 	email = 138515193+pguin-sudo@users.noreply.github.com
+[pull]
+	rebase = true
