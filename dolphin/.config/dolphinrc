@@ -9,7 +9,7 @@ ViewPropsTimestamp=2026,3,7,15,39,16.104
 
 [IconsMode]
 MaximumTextLines=1
-PreviewSize=112
+PreviewSize=80
 
 [InformationPanel]
 dateFormat=ShortFormat
