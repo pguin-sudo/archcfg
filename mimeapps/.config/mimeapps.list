@@ -17,3 +17,5 @@ text/markdown=dev.zed.Zed.desktop;
 text/plain=org.kde.kate.desktop
 text/x-python=code.desktop;
 x-scheme-handler/figma=figma-linux.desktop
+inode/directory=yazi.desktop
+

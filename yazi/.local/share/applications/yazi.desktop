@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Yazi
+Exec=kitty -e yazi %u   
+Terminal=true
+MimeType=inode/directory;
+Categories=System;FileManager;
+NoDisplay=true
