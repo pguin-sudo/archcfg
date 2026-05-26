@@ -28,8 +28,8 @@
   "useFahrenheit": false,
   "windSpeedUnit": "ms",
   "nightModeEnabled": false,
-  "animationSpeed": 1,
-  "customAnimationDuration": 500,
+  "animationSpeed": 2,
+  "customAnimationDuration": 1000,
   "syncComponentAnimationSpeeds": true,
   "popoutAnimationSpeed": 1,
   "popoutCustomAnimationDuration": 150,
@@ -176,13 +176,19 @@
   "browserPickerViewMode": "grid",
   "browserUsageHistory": {
     "firefox": {
-      "count": 52,
-      "lastUsed": 1779649093167,
+      "count": 62,
+      "lastUsed": 1779836714045,
       "name": "Firefox"
     }
   },
   "appPickerViewMode": "grid",
-  "filePickerUsageHistory": {},
+  "filePickerUsageHistory": {
+    "firefox": {
+      "count": 1,
+      "lastUsed": 1779836717315,
+      "name": "Firefox"
+    }
+  },
   "sortAppsAlphabetically": false,
   "appLauncherGridColumns": 4,
   "spotlightCloseNiriOverview": true,
