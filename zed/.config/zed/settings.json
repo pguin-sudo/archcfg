@@ -24,11 +24,7 @@
   "icon_theme": "Zed (Default)",
   "ui_font_size": 16,
   "buffer_font_size": 15,
-  "theme": {
-    "mode": "dark",
-    "light": "One Light",
-    "dark": "Catppuccin Mocha",
-  },
+  "theme": "DankShell Dark Transparent",
   "lsp": {
     "rust-analyzer": {
       "initialization_options": {
