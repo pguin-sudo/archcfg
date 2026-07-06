@@ -18,4 +18,6 @@ text/plain=org.kde.kate.desktop
 text/x-python=code.desktop;
 x-scheme-handler/figma=figma-linux.desktop
 inode/directory=yazi.desktop
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
+x-scheme-handler/prizrak-box=prizrak-box.desktop
 
